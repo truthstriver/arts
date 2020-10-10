@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c508d62-75c5-447f-8724-10794c2aa134" name="默认的" comment="first" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ifjKwuNdsdz43S0l5tzBGaiVsZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c508d62-75c5-447f-8724-10794c2aa134" name="默认的" comment="" />
+      <created>1602305479906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602305479906</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1602305528370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602305528370</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1602306619481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602306619481</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="226" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602305493857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="226" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602305493857" />
+    <state x="90" y="132" width="1346" height="634" key="DiffContextDialog" timestamp="1602306600636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="90" y="132" width="1346" height="634" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602306600636" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1602305503887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602305503887" />
+    <state x="624" y="326" key="VCS.EditChangelistDialog" timestamp="1602305535871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="624" y="326" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1602305535871" />
+  </component>
+</project>
